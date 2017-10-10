@@ -1,4 +1,4 @@
 # tuto_git
 basic fonctions of git
 
-v2gogo
+v2vbase1gogo
